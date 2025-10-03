@@ -1,6 +1,6 @@
 # Maria Lawn Care Website
 
-A modern, responsive lawn care website built with Next.js 14, TypeScript, and Tailwind CSS.
+A modern, responsive lawn care website built with Next.js 14, TypeScript, and Tailwind CSS. Inspired by professional lawn care businesses like Greenleaf Lawn, this website showcases comprehensive lawn care services for Tulsa and surrounding areas.
 
 ## 🌟 Features
 
