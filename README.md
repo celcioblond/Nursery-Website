@@ -118,7 +118,11 @@ Current phone number used throughout the site:
 
 ## 🌐 Deployment
 
-This website can be deployed to various platforms:
+### GitHub Pages (Live Demo)
+This website is automatically deployed to GitHub Pages: **[View Live Demo](https://celcioblond.github.io/Nursery-Website/)**
+
+### Manual Deployment Options
+This website can also be deployed to other platforms:
 
 - **Vercel** (recommended for Next.js): [vercel.com](https://vercel.com)
 - **Netlify**: [netlify.com](https://netlify.com)
