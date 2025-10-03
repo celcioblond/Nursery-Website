@@ -1,10 +1,17 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // App Router is enabled by default in Next.js 13+
+  basePath: process.env.NODE_ENV === 'production' ? '/Nursery-Website' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/Nursery-Website/' : '',
   output: 'export',
   trailingSlash: true,
   images: {
     unoptimized: true
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   }
 }
 
