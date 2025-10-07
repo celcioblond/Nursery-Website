@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <FaLeaf className="text-primary-400 text-2xl" />
-              <span className="text-xl font-bold">Maria Lawn Care</span>
+              <span className="text-xl font-bold">Vivero Girasoles</span>
             </div>
             <p className="text-gray-300 mb-4">
               Professional lawn care services making Tulsa more beautiful 
@@ -18,11 +18,11 @@ export default function Footer() {
             </p>
             <div className="flex items-center space-x-2 text-gray-300 mb-2">
               <FaPhone className="text-sm" />
-              <span>918-640-6405</span>
+              <span>054-449 692</span>
             </div>
             <div className="flex items-center space-x-2 text-gray-300">
               <FaEnvelope className="text-sm" />
-              <span>info@marialawncare.com</span>
+              <span>ventas@viverogirasoles.com</span>
             </div>
           </div>
 
@@ -77,7 +77,7 @@ export default function Footer() {
             <div className="space-y-3 text-gray-300">
               <div className="flex items-center space-x-2">
                 <FaHome className="text-sm" />
-                <span>Tulsa, OK</span>
+                <span>Av. Fernandini 145-B Sachaca - Arequipa - Perú</span>
               </div>
               <div className="flex items-center space-x-2">
                 <FaPhone className="text-sm" />
@@ -95,7 +95,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 Maria Lawn Care, All Rights Reserved.</p>
+          <p>&copy; 2025 Vivero Girasoles, All Rights Reserved.</p>
           <div className="flex justify-center space-x-6 mt-4">
             <Link href="/privacy" className="hover:text-white">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-white">Terms & Conditions</Link>

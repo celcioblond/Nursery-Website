@@ -10,7 +10,7 @@ export default function AboutPage() {
         <section className="bg-gradient-to-r from-green-700 to-green-500 text-white py-20">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              About Maria Lawn Care
+              About Vivero Girasoles
             </h1>
             <p className="text-xl max-w-3xl mx-auto">
               With over 25 years of experience, we're Tulsa's trusted partner 

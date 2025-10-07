@@ -16,7 +16,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <div className="text-2xl font-bold text-primary-600">
-              Maria Lawn Care
+              Vivero Girasoles
             </div>
           </Link>
 
@@ -99,7 +99,7 @@ export default function Navigation() {
               </Link>
               <div className="flex items-center justify-center space-x-2 text-primary-600 mt-4">
                 <FaPhone className="text-sm" />
-                <span className="text-sm font-semibold">918-640-6405</span>
+                <span className="text-sm font-semibold">054-449 692</span>
               </div>
             </div>
           </div>
